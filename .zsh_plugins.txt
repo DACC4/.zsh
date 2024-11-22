@@ -7,6 +7,7 @@ ohmyzsh/ohmyzsh path:lib   # load OMZ's library
 # load OMZ plugins
 ohmyzsh/ohmyzsh path:plugins/docker
 ohmyzsh/ohmyzsh path:plugins/git
+ohmyzsh/ohmyzsh path:plugins/terraform
 ohmyzsh/ohmyzsh path:plugins/colored-man-pages
 
 # auto suggestions
