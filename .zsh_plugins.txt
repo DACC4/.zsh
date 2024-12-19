@@ -15,3 +15,6 @@ zsh-users/zsh-autosuggestions
 
 # syntax highlighting
 zdharma-continuum/fast-syntax-highlighting kind:defer
+
+# zoxide
+ajeetdsouza/zoxide
