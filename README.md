@@ -11,7 +11,7 @@ Here's a list of packages to install :
 ### Arch setup
 All of this can be easily installed on arch using AUR :
 ```sh
-yay -S zsh zsh-antidote eza bat
+yay -S zsh zsh-antidote eza bat zoxide
 ```
 
 ## Setup
