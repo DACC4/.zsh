@@ -17,5 +17,10 @@ alias cat=bat
 alias ls="eza -lh"
 alias ll="eza -lah"
 
+alias untar="tar -xf"
+
 alias keyeval="eval \"$(ssh-agent -s)\" && ssh-add ~/.ssh/id_ed25519"
+
+alias whatprovides="pacman -F"
+alias clip="xclip -selection clipboard -i"
 #############################################
