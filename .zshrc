@@ -12,6 +12,10 @@ source "/usr/share/zsh-antidote/antidote.zsh"
 antidote load
 #############################################
 
+################ Custom env #################
+MAKEFLAGS="--jobs=$(nproc)"
+#############################################
+
 ############## Custom aliases ###############
 alias cat=bat
 alias ls="eza -lh"
